@@ -2,12 +2,12 @@
 💡 I'm always excited to learn new technologies, take on meaningful challenges, and collaborate with inspiring people. I specialize in system analysis, architecture planning, and developing modern web applications using my favorite tools: Laravel, Vue.js, Tailwind CSS, and MySQL. ⚡
 
 ## 📈 GitHub Stats
-![Ezzat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ezzat07&show_icons=true&theme=radical)
+![Ezzat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EzzatKhaqan&show_icons=true&theme=radical)
 
 ## 📊 Contributions & Activity
-![Ezzat's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Ezzat07&theme=dark)
+![Ezzat's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=EzzatKhaqan&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezzat07&exclude_repo=post-graduate,Vue-Journey,master-program,test,Laravel&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EzzatKhaqan&exclude_repo=post-graduate,Vue-Journey,master-program,test,Laravel&layout=compact&theme=dark)
 
 
 <!--
