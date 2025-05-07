@@ -5,7 +5,6 @@
 ![Ezzat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EzzatKhaqan&show_icons=true&theme=radical)
 
 ## 📊 Contributions & Activity
-![Ezzat's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=EzzatKhaqan&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EzzatKhaqan&exclude_repo=post-graduate,Vue-Journey,master-program,test,Laravel&layout=compact&theme=dark)
 
