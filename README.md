@@ -1,6 +1,9 @@
 ## About Me
 💡 I'm always excited to learn new technologies, take on meaningful challenges, and collaborate with inspiring people. I specialize in system analysis, architecture planning, and developing modern web applications using my favorite tools: Laravel, Vue.js, Tailwind CSS, and MySQL. ⚡
 
+## Language preferences and interests
+💻 Passionate about web development with PHP & JavaScript, and skilled in C++ and Java for data structures and algorithms. Big fan of Java for all things OOP!
+
 ## 📈 GitHub Stats
 ![Ezzat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EzzatKhaqan&show_icons=true&theme=radical)
 
