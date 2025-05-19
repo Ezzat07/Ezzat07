@@ -17,7 +17,8 @@ Always learning, always building. 🚀
 
 ## 📊 Contributions & Activity
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EzzatKhaqan&exclude_repo=post-graduate,Vue-Journey,master-program,test,Laravel,cpp-algo-practice-and-template&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EzzatKhaqan&layout=compact&theme=dark)
+
 
 
 <!--
