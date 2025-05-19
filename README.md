@@ -1,5 +1,6 @@
 ## About Me
-💡 I'm always excited to learn new technologies, take on meaningful challenges, and collaborate with inspiring people. I specialize in system analysis,problem solving, architecture planning, and developing modern web applications using my favorite tools: Laravel, Vue.js, Tailwind CSS, and MySQL. ⚡
+💡 I'm always excited to learn new technologies, take on meaningful challenges, and collaborate with inspiring people. I specialize in system analysis,problem solving, architecture planning, and developing modern web applications using my favorite tools: Laravel, Vue.js, Tailwind CSS, and MySQL. ⚡  
+Because I'm always eager to explore new technologies, after building several projects with Vue and mastering its ecosystem, React has truly caught my attention.The component-based flexibility and growing ecosystem are thrilling to work with — so much so that I've recently started a React project, crafting a powerful and modern template from the ground up.
 
 ## Language preferences and interests  
 💻 Full-Stack Developer | Code Enthusiast  
